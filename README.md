@@ -7,3 +7,6 @@ Exercise 5: Create a repo on GitHub that contains a markdown file that answers t
 		A.  Go to VSC, Show History, Click on log, then, Double click on the revision you want look at.
     What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
 		A.  It is the current branch that you have checked out.
+
+		
+# Last test
